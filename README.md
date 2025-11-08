@@ -1,2 +1,2 @@
-# servidor-da-Fam-lia-RP-Hardcore
+# servidor
 Minecraft
